@@ -1,0 +1,6 @@
+{
+	"id":1,
+	"nome":"cameron",
+	"email":"cameronsilva@gmail.com",
+	"senha":"SilvapQueijo@12"	
+}
